@@ -1,8 +1,8 @@
 ---
-title: "Practical Machine Learning: Assignment Write Up"
+title: 'Practical Machine Learning: Assignment Write Up'
 author: "Thisomimie"
 date: "January 29, 2016"
-output: html_document
+output: pdf_document
 ---
 
 # Executive Summary
